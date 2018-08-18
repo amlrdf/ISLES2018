@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ISLES2018.iml" filepath="$PROJECT_DIR$/.idea/ISLES2018.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../knee-cartilage-segmentation/.idea/knee-cartilage-segmentation.iml" filepath="$PROJECT_DIR$/../knee-cartilage-segmentation/.idea/knee-cartilage-segmentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../knee-cartilage-segmentation2/.idea/knee-cartilage-segmentation2.iml" filepath="$PROJECT_DIR$/../knee-cartilage-segmentation2/.idea/knee-cartilage-segmentation2.iml" />
     </modules>
   </component>
 </project>

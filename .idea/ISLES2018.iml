@@ -6,6 +6,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="knee-cartilage-segmentation" />
+    <orderEntry type="module" module-name="knee-cartilage-segmentation2" />
   </component>
   <component name="TestRunnerService">
     <option name="projectConfiguration" value="py.test" />
